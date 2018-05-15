@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "https://github.com/AngeloFerrando/LiquidaOnline/index.html",
+  "index": "/LiquidaOnline/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://github.com/AngeloFerrando/LiquidaOnline/favicon.ico",
-        "https://github.com/AngeloFerrando/LiquidaOnline/index.html",
-        "https://github.com/AngeloFerrando/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://github.com/AngeloFerrando/LiquidaOnline/main.a54f27a0643466bdbba2.bundle.js",
-        "https://github.com/AngeloFerrando/LiquidaOnline/polyfills.7bc06bfe621a309dd5ca.bundle.js",
-        "https://github.com/AngeloFerrando/LiquidaOnline/scripts.968f55bfb751cd0febb2.bundle.js",
-        "https://github.com/AngeloFerrando/LiquidaOnline/styles.21aa92598652aced740f.bundle.css"
+        "/LiquidaOnline/favicon.ico",
+        "/LiquidaOnline/index.html",
+        "/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js",
+        "/LiquidaOnline/main.86f4e218ada0fb9f7872.bundle.js",
+        "/LiquidaOnline/polyfills.7bc06bfe621a309dd5ca.bundle.js",
+        "/LiquidaOnline/scripts.968f55bfb751cd0febb2.bundle.js",
+        "/LiquidaOnline/styles.21aa92598652aced740f.bundle.css"
       ],
       "patterns": []
     },
@@ -22,36 +22,36 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/background3.jpg",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-128x128.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-152x152.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-192x192.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-256x256.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-512x512.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-64x64.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-96x96.png",
-        "https://github.com/AngeloFerrando/LiquidaOnline/assets/liquidaLogo.png"
+        "/LiquidaOnline/assets/background3.jpg",
+        "/LiquidaOnline/assets/icon-128x128.png",
+        "/LiquidaOnline/assets/icon-152x152.png",
+        "/LiquidaOnline/assets/icon-192x192.png",
+        "/LiquidaOnline/assets/icon-256x256.png",
+        "/LiquidaOnline/assets/icon-512x512.png",
+        "/LiquidaOnline/assets/icon-64x64.png",
+        "/LiquidaOnline/assets/icon-96x96.png",
+        "/LiquidaOnline/assets/liquidaLogo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/AngeloFerrando/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/background3.jpg": "bb6d51f5efd4979908bc12c705404c573e64ccfb",
-    "https://github.com/AngeloFerrando/LiquidaOnline/main.a54f27a0643466bdbba2.bundle.js": "29a7ac087c7bcbb71698e9406b942d72b21c1c71",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-128x128.png": "4e6dc9e826fc349b7ada82e3918423dd1ef4fc2e",
-    "https://github.com/AngeloFerrando/LiquidaOnline/polyfills.7bc06bfe621a309dd5ca.bundle.js": "996e81089ff1e16384a57aa0d9d3cc06a90133e8",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-152x152.png": "b8bfa170e72e1cc27c0ed9ae4aa2289af2b04317",
-    "https://github.com/AngeloFerrando/LiquidaOnline/scripts.968f55bfb751cd0febb2.bundle.js": "2c04185c17b4f24d012c77669afb0db42dbea1f2",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-192x192.png": "bb14ccbaeab68155e78c5949598b2665b809e688",
-    "https://github.com/AngeloFerrando/LiquidaOnline/styles.21aa92598652aced740f.bundle.css": "11deac5823844a57e91e585c8c28730ff11eb07e",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-256x256.png": "1e42e55ddf5533181ba90ab6ca54be0116b927b0",
-    "https://github.com/AngeloFerrando/LiquidaOnline/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-512x512.png": "4d96465fd3ef96b9e668b24eec767e9e72dcf398",
-    "https://github.com/AngeloFerrando/LiquidaOnline/index.html": "72ed9c8c75c43c1a4a74bb21916813e68c09c408",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-64x64.png": "a798e3c506083f0210f65abd2af666851db5a1c3",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/icon-96x96.png": "452812515ee988191a0bb4388aa5dd6ecffa8ae8",
-    "https://github.com/AngeloFerrando/LiquidaOnline/assets/liquidaLogo.png": "2b2d3b3ead2db28f117021bb02f0a4eea8c453be"
+    "/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/LiquidaOnline/assets/background3.jpg": "bb6d51f5efd4979908bc12c705404c573e64ccfb",
+    "/LiquidaOnline/main.86f4e218ada0fb9f7872.bundle.js": "f76b083e4f194544b2b90cb8087c2fb044957f0b",
+    "/LiquidaOnline/assets/icon-128x128.png": "4e6dc9e826fc349b7ada82e3918423dd1ef4fc2e",
+    "/LiquidaOnline/polyfills.7bc06bfe621a309dd5ca.bundle.js": "996e81089ff1e16384a57aa0d9d3cc06a90133e8",
+    "/LiquidaOnline/assets/icon-152x152.png": "b8bfa170e72e1cc27c0ed9ae4aa2289af2b04317",
+    "/LiquidaOnline/scripts.968f55bfb751cd0febb2.bundle.js": "2c04185c17b4f24d012c77669afb0db42dbea1f2",
+    "/LiquidaOnline/assets/icon-192x192.png": "bb14ccbaeab68155e78c5949598b2665b809e688",
+    "/LiquidaOnline/styles.21aa92598652aced740f.bundle.css": "11deac5823844a57e91e585c8c28730ff11eb07e",
+    "/LiquidaOnline/assets/icon-256x256.png": "1e42e55ddf5533181ba90ab6ca54be0116b927b0",
+    "/LiquidaOnline/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/LiquidaOnline/assets/icon-512x512.png": "4d96465fd3ef96b9e668b24eec767e9e72dcf398",
+    "/LiquidaOnline/index.html": "b1a48bedbe41ce9aa69d26467ee2e0101ea96731",
+    "/LiquidaOnline/assets/icon-64x64.png": "a798e3c506083f0210f65abd2af666851db5a1c3",
+    "/LiquidaOnline/assets/icon-96x96.png": "452812515ee988191a0bb4388aa5dd6ecffa8ae8",
+    "/LiquidaOnline/assets/liquidaLogo.png": "2b2d3b3ead2db28f117021bb02f0a4eea8c453be"
   }
 }
