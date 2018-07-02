@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "index": "/LiquidaOnline/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/LiquidaOnline/favicon.ico",
+        "/LiquidaOnline/index.html",
+        "/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js",
+        "/LiquidaOnline/main.f75f1b8518cd85aa6c90.bundle.js",
+        "/LiquidaOnline/polyfills.fa4ba312b5f50b15c214.bundle.js",
+        "/LiquidaOnline/scripts.3f7eed6b6836bce8407d.bundle.js",
+        "/LiquidaOnline/styles.d99044de89df5e77eba4.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/LiquidaOnline/assets/background3.jpg",
+        "/LiquidaOnline/assets/gif.worker.js",
+        "/LiquidaOnline/assets/icon-128x128.png",
+        "/LiquidaOnline/assets/icon-152x152.png",
+        "/LiquidaOnline/assets/icon-192x192.png",
+        "/LiquidaOnline/assets/icon-256x256.png",
+        "/LiquidaOnline/assets/icon-512x512.png",
+        "/LiquidaOnline/assets/icon-64x64.png",
+        "/LiquidaOnline/assets/icon-96x96.png",
+        "/LiquidaOnline/assets/liquidaLogo.png",
+        "/LiquidaOnline/assets/images/appointment.jpg",
+        "/LiquidaOnline/assets/slick/ajax-loader.gif",
+        "/LiquidaOnline/assets/slick/config.rb",
+        "/LiquidaOnline/assets/slick/slick-theme.css",
+        "/LiquidaOnline/assets/slick/slick-theme.less",
+        "/LiquidaOnline/assets/slick/slick.css",
+        "/LiquidaOnline/assets/slick/slick.less",
+        "/LiquidaOnline/assets/slick/slick.min.js",
+        "/LiquidaOnline/assets/slick/fonts/slick.eot",
+        "/LiquidaOnline/assets/slick/fonts/slick.svg",
+        "/LiquidaOnline/assets/slick/fonts/slick.ttf",
+        "/LiquidaOnline/assets/slick/fonts/slick.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/LiquidaOnline/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/LiquidaOnline/assets/background3.jpg": "bb6d51f5efd4979908bc12c705404c573e64ccfb",
+    "/LiquidaOnline/main.f75f1b8518cd85aa6c90.bundle.js": "dd6ab7a3024fb80f8a27a8a49677d3498e289129",
+    "/LiquidaOnline/assets/gif.worker.js": "7ef26525155a78dc780b6d0b5070158a0c085854",
+    "/LiquidaOnline/polyfills.fa4ba312b5f50b15c214.bundle.js": "4a3c1110535f980d68c9b5a521f3f0242ec8fc63",
+    "/LiquidaOnline/assets/icon-128x128.png": "4e6dc9e826fc349b7ada82e3918423dd1ef4fc2e",
+    "/LiquidaOnline/scripts.3f7eed6b6836bce8407d.bundle.js": "57d931cc45758efeea7f6dfd5ee790e25ea5c142",
+    "/LiquidaOnline/assets/icon-152x152.png": "b8bfa170e72e1cc27c0ed9ae4aa2289af2b04317",
+    "/LiquidaOnline/styles.d99044de89df5e77eba4.bundle.css": "3717420709d150bc8972980e0bbdd24e54b3966a",
+    "/LiquidaOnline/assets/icon-192x192.png": "bb14ccbaeab68155e78c5949598b2665b809e688",
+    "/LiquidaOnline/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/LiquidaOnline/assets/icon-256x256.png": "1e42e55ddf5533181ba90ab6ca54be0116b927b0",
+    "/LiquidaOnline/index.html": "5b257a3c1e44543194a1f693895b449dd1632c61",
+    "/LiquidaOnline/assets/icon-512x512.png": "4d96465fd3ef96b9e668b24eec767e9e72dcf398",
+    "/LiquidaOnline/assets/icon-64x64.png": "a798e3c506083f0210f65abd2af666851db5a1c3",
+    "/LiquidaOnline/assets/icon-96x96.png": "452812515ee988191a0bb4388aa5dd6ecffa8ae8",
+    "/LiquidaOnline/assets/liquidaLogo.png": "2b2d3b3ead2db28f117021bb02f0a4eea8c453be",
+    "/LiquidaOnline/assets/images/appointment.jpg": "9911ec08e5c0c1382b28aa528f6323c105866930",
+    "/LiquidaOnline/assets/slick/ajax-loader.gif": "7a1aa43614396382bb15e5fde574d9cdcd21698f",
+    "/LiquidaOnline/assets/slick/config.rb": "7236f16117d60cce689a8399e374ba24f493f9f8",
+    "/LiquidaOnline/assets/slick/slick-theme.css": "a03f7a4fc2e08085ab3de5bc932d405a840c0070",
+    "/LiquidaOnline/assets/slick/slick-theme.less": "52b44291cef511231eb805448166c67fb2234021",
+    "/LiquidaOnline/assets/slick/slick.css": "a94a059b3178b4adec09e3281ace2819a30095a4",
+    "/LiquidaOnline/assets/slick/slick.less": "f398efba64c187f9d8d27f9e74db1b29dd88b976",
+    "/LiquidaOnline/assets/slick/slick.min.js": "f5071717b9e5e3fe5d3aef69f9f20acf753bc1f8",
+    "/LiquidaOnline/assets/slick/fonts/slick.eot": "2dff0768f4c0a53228761eab917e2c65556042d4",
+    "/LiquidaOnline/assets/slick/fonts/slick.svg": "17f63c6f6131389462ba3d814b7ddf83344705f9",
+    "/LiquidaOnline/assets/slick/fonts/slick.ttf": "3331eebdd4ba348ef25abe00c39ffbe867d46575",
+    "/LiquidaOnline/assets/slick/fonts/slick.woff": "af91c12f0f406a4f801aeb3b398768fe41d8f864"
+  }
+}
